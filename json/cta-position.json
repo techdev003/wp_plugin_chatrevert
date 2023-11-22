@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "cta_code":"beg",
+        "cta_value":"Beginning"
+    },
+    {
+        "id":2,
+        "cta_code":"end",
+        "cta_value":"End"  
+    }
+]
